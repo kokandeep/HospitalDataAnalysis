@@ -12,6 +12,12 @@ I am doing analysis over the hospital data in this project with python libraries
 Let's suppose a customer wants to invest in the company but this investor knows very little about Company and needs to understand the business as much as possible before making his investment decision. So, with this project I intend to show/give in-depth insight of the company's performance, revenues and profits based on certain criterias.
 
 
+## Brief - 
+With this project I am analysing data of a Hospital where I am drawing comparison between various data sets. I am doing this analysis to show/give in-depth insight of the company's performance, revenues and profits based on certain criterias by calculating and drawing graphs with different parameters. The data set is divided in many files/databases, so I am also combining them with the help of pandas library and plotting all the graphs using matlibplot library.
+The different types of graphs (pie, bar, histogram) give a person a clear view of the performance, revenue of the hospital.
+This model can be applied over any company for analysis purposes or to make any business decisions.
+
+
 ## Data sets
 * bookings.csv - Details of appointments being booked and type of payment mode used by the user.
 * users.csv - Details of the users who are calling to verify their status of their inquiry.
